@@ -2,12 +2,12 @@
 <h2 align="center">A Passionate Software Developer from India</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahak008&label=Profile%20views&color=0e75b6&style=flat" alt="mahak"> 
+  <img src="https://komarev.com/ghpvc/?username=Miss-Anisha&label=Profile%20views&color=0e75b6&style=flat" alt="anisha"> 
 </p>
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/twitter/follow/mahak802?logo=twitter&style=for-the-badge" alt="Miss-Anisha">
+    <img src="https://img.shields.io/twitter/follow/Miss-Anisha?logo=twitter&style=for-the-badge" alt="Miss-Anisha">
   </a> 
 </p>
 
@@ -18,17 +18,21 @@
 - 🔭 I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
 - 🌱 I’m currently learning **React JS and DSA**.
 - 📫 Reach out to me at **[anishapremi2007@gmail.com](mailto:anishapremi2007@gmail.com)**.
-
+- 👨‍💻 I am an **Open Source Enthusiast**.
 
 ## 🏆 Achievements
 
 - 🥉 3rd Top Contributor in **Social Winter of Code 2.0**.
 
 
+
+
 ## 🌐 Social Profiles
 
 <p align="left">
- 
+  <a href="https://www.codingninjas.com/studio/profile/Anisha005" target="_blank">
+    <img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Mahak008" height="30" width="40" />
+  </a>
   <a href="https://auth.geeksforgeeks.org/user/anishapremi2007
 " target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahak_garg" height="30" width="40" />
