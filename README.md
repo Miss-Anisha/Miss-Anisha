@@ -20,9 +20,7 @@
 - 📫 Reach out to me at **[anishapremi2007@gmail.com](mailto:anishapremi2007@gmail.com)**.
 - 👨‍💻 I am an **Open Source Enthusiast**.
 
-## 🏆 Achievements
 
-- 🥉 3rd Top Contributor in **Social Winter of Code 2.0**.
 
 
 
