@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anisha</h1>
-<h2 align="center">A Passionate Software Developer from India</h2>
+<h2 align="center">Technical Trainer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Miss-Anisha&label=Profile%20views&color=0e75b6&style=flat" alt="anisha"> 
