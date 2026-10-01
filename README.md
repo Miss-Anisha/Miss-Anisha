@@ -15,8 +15,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
-- 🌱 I’m currently learning **React JS and DSA**.
+- 🔭 My highest qualification is MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
+- 🌱 I’m currently learning **Artificial Intelligence & LLM**.
 - 📫 Reach out to me at **[anishapremi2007@gmail.com](mailto:anishapremi2007@gmail.com)**.
 - 👨‍💻 I am an **Open Source Enthusiast**.
 
